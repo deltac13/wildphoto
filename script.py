@@ -1,4 +1,4 @@
-# All rights reserved (C) Yang Lin
+# All rights reserved 
 # Camera trap script
 
 Read data file
